@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import joblib
 import re
+import nltk
+nltk.download("stopwords")
 
 from nltk.corpus import stopwords
 
