@@ -3,8 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-models/*.pkl
-models/*.joblib
 
 .DS_Store
 .vscode/
